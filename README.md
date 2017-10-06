@@ -26,7 +26,7 @@ The suite has ten different test cases:
 - LoweringDownTheBetAndVerifyingTheMinimumAmount: This test enters to the main page, lowers down the bet many times and verifies that the bet cannot be less than 1 (one);
 - RaisingTheBetAndSpinningTheWheel: This test enters to the main page, raises the bet twice and hits on the spin button;
 - RaisingTheBetAndVerifyingTheMaxAmount: This test enters to the main page, raises the bet thirteen times and verifies that the bet has been raised actually 10 times and that the user cannot bet more than 10x;
-- RaisingTheBetTenTimesAndVerifyingTheCorrectness: This test enters to the main page, raises the bet ten and verifies that the bet has been raised actually 10 times and that the first & second prizes increased their respective values as well;
+- RaisingTheBetTenTimesAndVerifyingTheCorrectness: This test enters to the main page, raises the bet ten times and verifies that the bet has been raised actually 10 times and that the first & second prizes increased their respective values as well;
 
 
 ### Maven Project
