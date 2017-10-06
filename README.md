@@ -15,18 +15,18 @@ The Jbehave Test Suite executes 13 (thirteen) tests to verify the behaviour of t
 The suite has ten different test cases:
 
 - ChangingTheBackgroundAndClickingTheSpinButton: This test enters to the main page, changes the background and hits on the spin button;
-- CheckingTheBuyNowPage: This test enter to the main page, clicks on the 'Buy Now' hyperlink and verifies that the user is perfectly driven to that section;
-- CheckingTheFirstFAQ: This test enter to the main page, clicks on the first question of the Frequently Asked Questions and checks that the proper response is displayed on screen;
-- CheckingTheOverviewPage: This test enter to the main page, clicks on the 'Overview' hyperlink and verifies that the user is perfectly driven to that section;
-- CheckingTheRighteousnessOfTheBlackJackLink: This test enter to the main page, clicks on the 'Black Jack' hyperlink and verifies that the user is perfectly driven to that site;
-- CheckingTheRighteousnessOfTheScratchCardsLink: This test enter to the main page, clicks on the 'Scratch Cards' hyperlink and verifies that the user is perfectly driven to that site;
-- CheckingTheRighteousnessOfTheWheelOfFortuneLink: This test enter to the main page, clicks on the 'Wheel of Fortune' hyperlink and verifies that the user is perfectly driven to that site;
-- CheckingTheSecondFAQ: This test enter to the main page, clicks on the second question of the Frequently Asked Questions and checks that the proper response is displayed on screen;
-- CheckingTheTestimonialsPage: This test enter to the main page, clicks on the 'Testimonials' hyperlink and verifies that the user is perfectly driven to that section;
-- LoweringDownTheBetAndVerifyingTheMinimumAmount: This test enter to the main page, lowers down the bet many times and verifies that the bet cannot be less than 1 (one);
-- RaisingTheBetAndSpinningTheWheel: This test enter to the main page, raises the bet twice and hits on the spin button;
-- RaisingTheBetAndVerifyingTheMaxAmount: This test enter to the main page, raises the bet thirteen times and verifies that the bet has been raised actually 10 times and that the user cannot bet more than 10x;
-- RaisingTheBetTenTimesAndVerifyingTheCorrectness: This test enter to the main page, raises the bet ten and verifies that the bet has been raised actually 10 times and that the first & second prizes increased their respective values as well;
+- CheckingTheBuyNowPage: This test enters to the main page, clicks on the 'Buy Now' hyperlink and verifies that the user is perfectly driven to that section;
+- CheckingTheFirstFAQ: This test enters to the main page, clicks on the first question of the Frequently Asked Questions and checks that the proper response is displayed on screen;
+- CheckingTheOverviewPage: This test enters to the main page, clicks on the 'Overview' hyperlink and verifies that the user is perfectly driven to that section;
+- CheckingTheRighteousnessOfTheBlackJackLink: This test enters to the main page, clicks on the 'Black Jack' hyperlink and verifies that the user is perfectly driven to that site;
+- CheckingTheRighteousnessOfTheScratchCardsLink: This test enters to the main page, clicks on the 'Scratch Cards' hyperlink and verifies that the user is perfectly driven to that site;
+- CheckingTheRighteousnessOfTheWheelOfFortuneLink: This test enters to the main page, clicks on the 'Wheel of Fortune' hyperlink and verifies that the user is perfectly driven to that site;
+- CheckingTheSecondFAQ: This test enters to the main page, clicks on the second question of the Frequently Asked Questions and checks that the proper response is displayed on screen;
+- CheckingTheTestimonialsPage: This test enters to the main page, clicks on the 'Testimonials' hyperlink and verifies that the user is perfectly driven to that section;
+- LoweringDownTheBetAndVerifyingTheMinimumAmount: This test enters to the main page, lowers down the bet many times and verifies that the bet cannot be less than 1 (one);
+- RaisingTheBetAndSpinningTheWheel: This test enters to the main page, raises the bet twice and hits on the spin button;
+- RaisingTheBetAndVerifyingTheMaxAmount: This test enters to the main page, raises the bet thirteen times and verifies that the bet has been raised actually 10 times and that the user cannot bet more than 10x;
+- RaisingTheBetTenTimesAndVerifyingTheCorrectness: This test enters to the main page, raises the bet ten and verifies that the bet has been raised actually 10 times and that the first & second prizes increased their respective values as well;
 
 
 ### Maven Project
