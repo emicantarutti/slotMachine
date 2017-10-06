@@ -15,7 +15,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class UiSteps extends Steps {
 	static WebDriver driver = new ChromeDriver();
-	public static String currentUrl;
 
 	@BeforeClass
 	public static void initialize() {
