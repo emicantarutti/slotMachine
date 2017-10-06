@@ -62,7 +62,7 @@ These classes call the '.story' file, reads it, and look for the steps in the de
 ## Preconditions
 
 The only tools that you need to run these tests are:
-- Maven;
-- Java;
+- Maven 3.2;
+- Java 8;
 - Google Chrome.
 
